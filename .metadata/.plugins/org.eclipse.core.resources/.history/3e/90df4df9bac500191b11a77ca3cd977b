@@ -1,0 +1,16 @@
+package moderjavainaction.chap4;
+
+public class Dish {
+	
+	public enum Type{
+		MEAT,
+		FISH,
+		OTHER
+	}
+	
+	private  String name;
+	private  boolean vegetarian;
+	private  int calories;
+	
+
+}

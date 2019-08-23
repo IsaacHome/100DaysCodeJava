@@ -1,0 +1,19 @@
+INDEX VERSION 1.131+/Users/isaachome/javacode/modernJava/.metadata/.plugins/org.eclipse.jdt.core
+1048532282.index
+1521315869.index
+1720201287.index
+151955446.index
+954091960.index
+616826780.index
+3796134354.index
+2289153421.index
+3068110033.index
+2090523915.index
+1010685406.index
+3878444454.index
+2710835169.index
+893826609.index
+238315991.index
+1239379273.index
+3814610393.index
+575380401.index

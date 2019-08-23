@@ -1,0 +1,16 @@
+package moderjavainaction.chap04;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class StreamBasic {
+
+	 public static void main(String[] args) {
+		
+	}
+	 
+	 
+	 public static List<String> getLowCaloriesDishNameInJava7(){
+		 List<Dish> lowCaloriesDish = new ArrayList<Dish>;
+	 }
+}

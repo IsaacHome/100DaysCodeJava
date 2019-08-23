@@ -1,0 +1,8 @@
+package moderjavainaction.chap04;
+
+public class HighCaloriesNames {
+	public static void main(String[] args) {
+		
+	}
+
+}

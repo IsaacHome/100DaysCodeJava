@@ -1,0 +1,26 @@
+package moderjavainaction.chap04;
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+
+public class StreamBasic {
+
+	 public static void main(String[] args) {
+		
+	}
+	 
+	 
+	 public static List<String> getLowCaloriesDishNameInJava7(List<Dish> dishes){
+		 List<Dish> lowCaloriesDish = new ArrayList<Dish>();
+		 
+		 for(Dish dish :dishes) {
+			 if(dish.getCalories() < 400){
+				 lowCaloriesDish.add(dish);
+			 }
+		 }
+		 
+		 List<String > lowCaloriesDishesName = new ArrayList<String>();
+		 Collections.sort(list, c);
+	 }
+}
