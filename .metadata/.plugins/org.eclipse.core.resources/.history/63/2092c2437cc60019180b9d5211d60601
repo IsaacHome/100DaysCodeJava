@@ -1,0 +1,8 @@
+package moderjavainaction.chap05;
+
+public class DistinctMethod {
+	public static void main(String[] args) {
+		
+	}
+
+}

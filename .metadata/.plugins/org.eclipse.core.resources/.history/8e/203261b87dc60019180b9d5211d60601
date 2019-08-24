@@ -1,0 +1,9 @@
+package moderjavainaction.chap05;
+
+public class SkipMethod {
+	
+	public static void main(String[] args) {
+		
+	}
+
+}

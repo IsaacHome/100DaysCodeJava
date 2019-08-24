@@ -1,0 +1,11 @@
+package moderjavainaction.chap05;
+
+import java.util.List;
+
+public class SlicingMethod {
+	
+	public static void main(String[] args) {
+		List<Dish> sliciedMenu = Dish.menu.
+	}
+
+}
