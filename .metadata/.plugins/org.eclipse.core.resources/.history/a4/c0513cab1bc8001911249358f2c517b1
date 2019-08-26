@@ -1,0 +1,9 @@
+package moderjavainaction.chap05;
+
+
+public class Transaction {
+
+	  private Trader trader;
+	  private int year;
+	  private int value;
+}

@@ -1,0 +1,8 @@
+package moderjavainaction.chap05;
+
+public class Trader {
+	
+	private String name;
+	private String city;
+
+}

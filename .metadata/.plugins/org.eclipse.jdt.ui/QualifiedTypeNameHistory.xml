@@ -4,14 +4,15 @@
 <fullyQualifiedTypeName name="com.solt.jdc.Dish.Type"/>
 <fullyQualifiedTypeName name="com.solt.jdc.Dish"/>
 <fullyQualifiedTypeName name="com.solt.jdc.Student"/>
-<fullyQualifiedTypeName name="java.util.Arrays"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="java.util.Collections"/>
 <fullyQualifiedTypeName name="java.util.Comparator"/>
 <fullyQualifiedTypeName name="moderjavainaction.chap04.Dish"/>
-<fullyQualifiedTypeName name="java.lang.Integer"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="java.util.stream.Collector"/>
+<fullyQualifiedTypeName name="moderjavainaction.chap05.Dish"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
 <fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
 <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
 </qualifiedTypeNameHistroy>
